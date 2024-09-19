@@ -1,8 +1,7 @@
-.modal{
-    display: flex;
-    justify-content: center;
-    margin-top: .5rem;
-}
+
 .modal-paragraph{
-    font-size: 2rem;
+    text-align: center;
+    letter-spacing: .5px;
+    color: var(--meaning-paragraph);
+    text-shadow: -1px -1px 0px var(--bg-input);
 }

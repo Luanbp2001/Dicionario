@@ -31,7 +31,6 @@ body{
   color: var(--color)
 }
 .main{
-  max-width: 600px;
   width: 600px;
   display: flex;
   flex-direction: column;
@@ -197,7 +196,7 @@ body{
 
 @media(max-width: 618px){
   .main{
+    padding: 0 .5rem 1rem;
     width: 100%;
-    padding: 0 1rem;
   }
 }
